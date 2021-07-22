@@ -12,8 +12,13 @@ def print_hi(name):
     c=a*b
     print(f'result = , {c}')
 
+def print_s():
+    a = 12
+    b = 64
+    print(a+b)
+
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
+    print_hi('Poder EQUINO!!!!')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
