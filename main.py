@@ -16,9 +16,14 @@ def print_s():
     a = 12
     b = 64
     print(a+b)
+    
+def print_d():
+    a = 5
+    b = 7
+    print(str(b/a))
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('Poder EQUINO!!!!')
+    print_hi('Wacha esta Gera :V')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
