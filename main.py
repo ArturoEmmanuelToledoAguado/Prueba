@@ -6,8 +6,21 @@
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+    print(f'Hi from itzeG, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+    a=5
+    b=10
+    c=a*b
+    print(f'result = , {c}')
 
+def print_s():
+    a = 12
+    b = 64
+    print(a+b)
+    
+def print_d():
+    a = 5
+    b = 7
+    print(str(b/a))
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
