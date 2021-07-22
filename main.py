@@ -7,10 +7,12 @@
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-    print_s('Se usa')
+    print_s()
 
-def print_s(name):
-    print(f'Yo suo el, {name}')
+def print_s():
+    a = 12
+    b = 64
+    print(a+b)
 
 
 # Press the green button in the gutter to run the script.
